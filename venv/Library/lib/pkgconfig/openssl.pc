@@ -1,0 +1,9 @@
+prefix=C:/Users/Malek/Desktop/End To End Q&A Chatbot GEN AI App With Open Ai/venv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.16 
